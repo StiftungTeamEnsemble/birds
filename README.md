@@ -4,14 +4,16 @@
 
 Can be found in the folder `edit`
 
-- Spatz
-- Amsel
-- Möwe
 - Eule
-- Storch
-- Rotkehlchen
-- Meise
-- Reiher
+- Spatz
+- Möwe
+- Adler
+- Papagei
+- Specht
+- Rabe
+- Flamingo
+- Schwalbe
+- Habicht
 
 ## Additional Birds
 
@@ -19,18 +21,17 @@ Can be found in the folder `gpt`
 
 - Taube
 - Krähe
-- Rabe
 - Schwan
 - Ente
 - Gans
-- Adler
 - Falke
-- Specht
-- Papagei
 - Kuckuck
-- Habicht
 - Bussard
-- Flamingo
+- Amsel
+- Storch
+- Rotkehlchen
+- Meise
+- Reiher
 
 ## Generation Prompt
 
